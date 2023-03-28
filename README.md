@@ -1,7 +1,7 @@
 # RepoTest
 
-Opis kurde kurna.
+Funkcja szukająca Twojego starego.
 
-## Podgłówek
+## Szukanie starego
 
-Opis drugi kurde kurna kurde.
+Szkanie Twojego starego nie jest łatwe.
